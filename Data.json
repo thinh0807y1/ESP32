@@ -1,13 +1,13 @@
 {
-  "fw_version": "0.2.0",
+  "fw_version": "2.0",
   "fw_url":"https://raw.githubusercontent.com/thinh0807y1/Esp32/main/firmware2.ino.esp32.bin",
-  "fw_hash": "cfba0af093a66d4c4fa67f9c5b295ab18914327982c0669d122536be96bc529b",
-  "fw_signature": "GKYY3XJx0Nkx66tbqkoTYBc0uAEKwM4tdldw3Nd4u/KH2J/0KcNsMTRo1zr7Z+PN
-T1rCBn96k/FrYaWl0ebFKloimYS6VX+G7blAeVVzHIIK+KBpHlQrqveiaj72MnjW
-CN3cmrWJVHfyZfyeV/NrWOYgRfn3tbDP6X5yuvnwoa6B5rlgcjXmYlRUeX7roDP2
-TBBRn03qgWmJk0KcrzDwhHuQ9rAXyqpolCoJ7Iz0OlGsQTuaUDHArcZPql88PbcL
-dXrSPHPTgYVRl1gjN5CfqukD1rLRCga1SJNZNumYuBfxFU/m8zPMM6WY20jZOkKG
-N4vfSd1oX0s1+Pjixj/h9g=="
+  "fw_hash": "bcc9cf796d1a9a7f2a1d1098bc5081d3be73b8ec29a404fa98f67be1377fb42b",
+  "fw_signature": "MmRRpuwmITm2Anl+m8JJf8Jo+4JjEsjtdolsPay+S3+XOH/vrCfM8umdC8ejlTOy
+DKGa3R60fOvS4CoDSjMykmumh0jPo3Ey0ULZfSXzibCIk+0N9SU8NXbz+KG6SxDb
+BAXP/3vjCmoKkCDe5xCtJM3DYCNJnQNMdeY77fpEXwPlGQU9QC0BKo8TZMQ2tSe+
+AslZgtHUgjaS1mEC6bGzbjcelcoKiytLOxbAQf0MOWWNc3/rGKO3wtbfItjtCb4v
+0nMRyNXB3K1WqKBw/yRGUpZT4vWSqYH0vM/ht5hnLklLTyTLaaMxzSXp7B1rgGaM
+FN2o698WwCmAbVFH79TPAQ=="
 
 }
 
