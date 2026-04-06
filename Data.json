@@ -1,5 +1,5 @@
 {
-  "fw_version": "2.0",
+  "fw_version":3.0",
   "fw_url":"https://raw.githubusercontent.com/thinh0807y1/Esp32/main/firmware2.ino.esp32.bin",
   "fw_hash": "bcc9cf796d1a9a7f2a1d1098bc5081d3be73b8ec29a404fa98f67be1377fb42b",
   "fw_signature": "L/XeU5dom89/2LuOujW8fSel/JPvL6TyULpMWS/eLP7T5sJaPLkUQ1KfAWL3Hk/gXc0zmz8rtkL4ch8IFp2cdrG3XINDlkm4rMPO/upmZK2Sdf2DFW+B6PgPW1uyoP08WF4b50uSnjxId69E+olYDKIJ5j4UEk1MurJ0T57pdpWgrjcePfDCDVMSftVL3nOMvTxO1W4GuWbdyzRDtNE6mhr78DoXnFKKRd3gWdznNTjUmQraE5z7Z7rwxEkrMrvUN+jhDrUIazV+hxdvUqIe2IvoeIv+OSsXZq8iIwibRdl5XsZ8sDsNJHSz9RVxxMIM4v0Hl81t1EP0UWHzDUqYog=="
